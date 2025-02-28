@@ -1,0 +1,24 @@
+{
+    "name": "EM",
+    "description": "EMTECH",
+    "symbol": "EMEM",
+    "image": "https://i.imgur.com/hecWi1U.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "EXCLUSIVE BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": ".quest"
+        }
+    ]
+}
