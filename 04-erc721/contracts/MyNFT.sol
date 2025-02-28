@@ -6,10 +6,10 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract MyNFT is ERC721URIStorage {
+contract JJEM is ERC721URIStorage {
     uint256 tokenId;
 
-    constructor() ERC721("MyERC721Token", "MET") {}
+    constructor() ERC721("JJEM", "JJ") {}
 
     function mint() external {
         // _safeMint(msg.sender, tokenId);
